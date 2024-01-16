@@ -1,3 +1,0 @@
-C:\Users\DIANA-MARIA\Desktop\CNCN\X F\myCar1\obj\Debug\myCar1.csproj.AssemblyReference.cache
-C:\Users\DIANA-MARIA\Desktop\CNCN\X F\myCar1\obj\Debug\myCar1.csproj.SuggestedBindingRedirects.cache
-C:\Users\DIANA-MARIA\Desktop\CNCN\X F\myCar1\obj\Debug\myCar1.csproj.CoreCompileInputs.cache
